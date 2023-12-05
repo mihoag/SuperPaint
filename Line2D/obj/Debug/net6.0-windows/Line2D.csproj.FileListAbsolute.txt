@@ -1,0 +1,17 @@
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\bin\Debug\net6.0-windows\Line2D.deps.json
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\bin\Debug\net6.0-windows\Line2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\bin\Debug\net6.0-windows\Line2D.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\bin\Debug\net6.0-windows\Adorner.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\bin\Debug\net6.0-windows\Contract.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\bin\Debug\net6.0-windows\Adorner.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\bin\Debug\net6.0-windows\Contract.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\obj\Debug\net6.0-windows\Line2D.csproj.AssemblyReference.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\obj\Debug\net6.0-windows\Line2D.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\obj\Debug\net6.0-windows\Line2D.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\obj\Debug\net6.0-windows\Line2D.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\obj\Debug\net6.0-windows\Line2D.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\obj\Debug\net6.0-windows\Line2D.csproj.CopyComplete
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\obj\Debug\net6.0-windows\Line2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\obj\Debug\net6.0-windows\refint\Line2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\obj\Debug\net6.0-windows\Line2D.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Line2D\obj\Debug\net6.0-windows\ref\Line2D.dll
