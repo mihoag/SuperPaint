@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
@@ -113,7 +113,8 @@ namespace PanAndZoom
                 origin = new Point(tt.X, tt.Y);
                 this.Cursor = Cursors.Hand;
                 child.CaptureMouse();
-            } else
+            }
+            else
             {
                 return;
             }

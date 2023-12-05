@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "7IQFtaqw/J4YfxyCvzJzbnir7f7D04gJ6cCf+ndNoW1bX//xSyvM3AO4no68KQADC8KL6+qabkT9zaLBamqN5Q==",
+  "success": true,
+  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Hexagon2D\\Hexagon2D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\1.1.2\\materialdesigncolors.1.1.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\2.2.0.725\\materialdesignthemes.2.2.0.725.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Adorner depends on MaterialDesignThemes (>= 2.1.4) but MaterialDesignThemes 2.1.4 was not found. An approximate best match of MaterialDesignThemes 2.2.0.725 was resolved.",
+      "libraryId": "MaterialDesignThemes",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Contract depends on MaterialDesignThemes (>= 2.1.4) but MaterialDesignThemes 2.1.4 was not found. An approximate best match of MaterialDesignThemes 2.2.0.725 was resolved.",
+      "libraryId": "MaterialDesignThemes",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MaterialDesignColors 1.1.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MaterialDesignColors",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MaterialDesignThemes 2.2.0.725' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MaterialDesignThemes",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

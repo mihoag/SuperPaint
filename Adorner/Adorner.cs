@@ -392,6 +392,9 @@ namespace PaintWindow
         }
     }
 
+    /// 
+    /// </summary>
+   
     //======================================
 
     public class CanvasAdorner : Adorner

@@ -17,7 +17,7 @@ namespace Eraser
         private Point2D _end = new Point2D();
 
         public string Name => "Eraser";
-        public int IconKind => (int)PackIconKind.Pencil;
+        public int IconKind => (int)PackIconKind.Eraser;
         public Brush s_mColor { get; set; }
         public Brush s_sColor { get; set; }
         public int s_mThickness { get; set; }

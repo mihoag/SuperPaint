@@ -1,0 +1,11 @@
+F:\HK3_Nam1\windowPropraming\projectPaint\PanAndZoom\bin\Debug\net6.0-windows\PanAndZoom.deps.json
+F:\HK3_Nam1\windowPropraming\projectPaint\PanAndZoom\bin\Debug\net6.0-windows\PanAndZoom.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\PanAndZoom\bin\Debug\net6.0-windows\PanAndZoom.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\PanAndZoom\obj\Debug\net6.0-windows\PanAndZoom.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\projectPaint\PanAndZoom\obj\Debug\net6.0-windows\PanAndZoom.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\PanAndZoom\obj\Debug\net6.0-windows\PanAndZoom.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\projectPaint\PanAndZoom\obj\Debug\net6.0-windows\PanAndZoom.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\PanAndZoom\obj\Debug\net6.0-windows\PanAndZoom.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\PanAndZoom\obj\Debug\net6.0-windows\refint\PanAndZoom.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\PanAndZoom\obj\Debug\net6.0-windows\PanAndZoom.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\PanAndZoom\obj\Debug\net6.0-windows\ref\PanAndZoom.dll

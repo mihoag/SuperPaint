@@ -1,0 +1,17 @@
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\bin\Debug\net6.0-windows\Triangle2D.deps.json
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\bin\Debug\net6.0-windows\Triangle2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\bin\Debug\net6.0-windows\Triangle2D.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\obj\Debug\net6.0-windows\Triangle2D.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\obj\Debug\net6.0-windows\Triangle2D.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\obj\Debug\net6.0-windows\Triangle2D.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\obj\Debug\net6.0-windows\Triangle2D.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\obj\Debug\net6.0-windows\Triangle2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\obj\Debug\net6.0-windows\refint\Triangle2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\obj\Debug\net6.0-windows\Triangle2D.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\obj\Debug\net6.0-windows\ref\Triangle2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\bin\Debug\net6.0-windows\Adorner.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\bin\Debug\net6.0-windows\Contract.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\bin\Debug\net6.0-windows\Adorner.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\bin\Debug\net6.0-windows\Contract.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\obj\Debug\net6.0-windows\Triangle2D.csproj.AssemblyReference.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Triangle2D\obj\Debug\net6.0-windows\Triangle2D.csproj.CopyComplete

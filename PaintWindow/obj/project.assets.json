@@ -201,6 +201,23 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "Arrow2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Arrow2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Arrow2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Contract/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -235,6 +252,40 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "Diamond2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Diamond2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Diamond2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Ellipse2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ellipse2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ellipse2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Eraser/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -254,6 +305,70 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "FillColor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FillColor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FillColor.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Heart2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Heart2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Heart2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Hexagon2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Hexagon2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hexagon2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Image2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Image2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Image2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Line2D/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -267,6 +382,136 @@
         },
         "runtime": {
           "bin/placeholder/Line2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Outline/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Outline.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Outline.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Retangle2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Retangle2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Retangle2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Select2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0",
+          "Outline": "1.0.0",
+          "Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Select2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Select2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Square/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Square.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Square.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Start2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Start2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Start2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Textbox/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Textbox.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Textbox.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Triangle2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Triangle2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Triangle2D.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utility.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -660,6 +905,11 @@
       "path": "../Adorner/Adorner.csproj",
       "msbuildProject": "../Adorner/Adorner.csproj"
     },
+    "Arrow2D/1.0.0": {
+      "type": "project",
+      "path": "../Arrow2D/Arrow2D.csproj",
+      "msbuildProject": "../Arrow2D/Arrow2D.csproj"
+    },
     "Contract/1.0.0": {
       "type": "project",
       "path": "../Contract/Contract.csproj",
@@ -670,28 +920,113 @@
       "path": "../Curve/Curve.csproj",
       "msbuildProject": "../Curve/Curve.csproj"
     },
+    "Diamond2D/1.0.0": {
+      "type": "project",
+      "path": "../Diamond2D/Diamond2D.csproj",
+      "msbuildProject": "../Diamond2D/Diamond2D.csproj"
+    },
+    "Ellipse2D/1.0.0": {
+      "type": "project",
+      "path": "../Ellipse2D/Ellipse2D.csproj",
+      "msbuildProject": "../Ellipse2D/Ellipse2D.csproj"
+    },
     "Eraser/1.0.0": {
       "type": "project",
       "path": "../Eraser/Eraser.csproj",
       "msbuildProject": "../Eraser/Eraser.csproj"
     },
+    "FillColor/1.0.0": {
+      "type": "project",
+      "path": "../FillColor/FillColor.csproj",
+      "msbuildProject": "../FillColor/FillColor.csproj"
+    },
+    "Heart2D/1.0.0": {
+      "type": "project",
+      "path": "../Heart2D/Heart2D.csproj",
+      "msbuildProject": "../Heart2D/Heart2D.csproj"
+    },
+    "Hexagon2D/1.0.0": {
+      "type": "project",
+      "path": "../Hexagon2D/Hexagon2D.csproj",
+      "msbuildProject": "../Hexagon2D/Hexagon2D.csproj"
+    },
+    "Image2D/1.0.0": {
+      "type": "project",
+      "path": "../Image2D/Image2D.csproj",
+      "msbuildProject": "../Image2D/Image2D.csproj"
+    },
     "Line2D/1.0.0": {
       "type": "project",
       "path": "../Line2D/Line2D.csproj",
       "msbuildProject": "../Line2D/Line2D.csproj"
+    },
+    "Outline/1.0.0": {
+      "type": "project",
+      "path": "../Outline/Outline.csproj",
+      "msbuildProject": "../Outline/Outline.csproj"
+    },
+    "Retangle2D/1.0.0": {
+      "type": "project",
+      "path": "../Retangle2D/Retangle2D.csproj",
+      "msbuildProject": "../Retangle2D/Retangle2D.csproj"
+    },
+    "Select2D/1.0.0": {
+      "type": "project",
+      "path": "../Select2D/Select2D.csproj",
+      "msbuildProject": "../Select2D/Select2D.csproj"
+    },
+    "Square/1.0.0": {
+      "type": "project",
+      "path": "../Square/Square.csproj",
+      "msbuildProject": "../Square/Square.csproj"
+    },
+    "Start2D/1.0.0": {
+      "type": "project",
+      "path": "../Start2D/Start2D.csproj",
+      "msbuildProject": "../Start2D/Start2D.csproj"
+    },
+    "Textbox/1.0.0": {
+      "type": "project",
+      "path": "../Textbox/Textbox.csproj",
+      "msbuildProject": "../Textbox/Textbox.csproj"
+    },
+    "Triangle2D/1.0.0": {
+      "type": "project",
+      "path": "../Triangle2D/Triangle2D.csproj",
+      "msbuildProject": "../Triangle2D/Triangle2D.csproj"
+    },
+    "Utility/1.0.0": {
+      "type": "project",
+      "path": "../Utilities/Utility.csproj",
+      "msbuildProject": "../Utilities/Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
       "Adorner >= 1.0.0",
+      "Arrow2D >= 1.0.0",
       "Contract >= 1.0.0",
       "Curve >= 1.0.0",
+      "Diamond2D >= 1.0.0",
+      "Ellipse2D >= 1.0.0",
       "Eraser >= 1.0.0",
+      "FillColor >= 1.0.0",
       "Fluent.Ribbon >= 10.0.4",
+      "Heart2D >= 1.0.0",
+      "Hexagon2D >= 1.0.0",
+      "Image2D >= 1.0.0",
       "Line2D >= 1.0.0",
       "MaterialDesignColors >= 2.1.4",
       "MaterialDesignThemes.Wpf >= 1.0.1",
+      "Outline >= 1.0.0",
       "PanAndZoom >= 2.3.4",
+      "Retangle2D >= 1.0.0",
+      "Select2D >= 1.0.0",
+      "Square >= 1.0.0",
+      "Start2D >= 1.0.0",
+      "Textbox >= 1.0.0",
+      "Triangle2D >= 1.0.0",
+      "Utility >= 1.0.0",
       "Wpf.Controls.PanAndZoom >= 2.3.4"
     ]
   },
@@ -730,17 +1065,62 @@
             "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Adorner\\Adorner.csproj": {
               "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Adorner\\Adorner.csproj"
             },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Arrow2D\\Arrow2D.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Arrow2D\\Arrow2D.csproj"
+            },
             "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Contract\\Contract.csproj": {
               "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Contract\\Contract.csproj"
             },
             "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Curve\\Curve.csproj": {
               "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Curve\\Curve.csproj"
             },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Diamond2D\\Diamond2D.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Diamond2D\\Diamond2D.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Ellipse2D\\Ellipse2D.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Ellipse2D\\Ellipse2D.csproj"
+            },
             "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Eraser\\Eraser.csproj": {
               "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Eraser\\Eraser.csproj"
             },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\FillColor\\FillColor.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\FillColor\\FillColor.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Heart2D\\Heart2D.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Heart2D\\Heart2D.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Hexagon2D\\Hexagon2D.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Hexagon2D\\Hexagon2D.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Image2D\\Image2D.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Image2D\\Image2D.csproj"
+            },
             "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Line2D\\Line2D.csproj": {
               "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Line2D\\Line2D.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Outline\\Outline.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Outline\\Outline.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Retangle2D\\Retangle2D.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Retangle2D\\Retangle2D.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Select2D\\Select2D.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Select2D\\Select2D.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Square\\Square.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Square\\Square.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Start2D\\Start2D.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Start2D\\Start2D.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Textbox\\Textbox.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Textbox\\Textbox.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Triangle2D\\Triangle2D.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Triangle2D\\Triangle2D.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Utilities\\Utility.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\Utilities\\Utility.csproj"
             }
           }
         }

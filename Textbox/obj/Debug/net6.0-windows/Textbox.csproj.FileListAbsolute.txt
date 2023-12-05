@@ -1,0 +1,17 @@
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\bin\Debug\net6.0-windows\Textbox.deps.json
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\bin\Debug\net6.0-windows\Textbox.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\bin\Debug\net6.0-windows\Textbox.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\bin\Debug\net6.0-windows\Adorner.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\bin\Debug\net6.0-windows\Contract.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\bin\Debug\net6.0-windows\Adorner.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\bin\Debug\net6.0-windows\Contract.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\obj\Debug\net6.0-windows\Textbox.csproj.AssemblyReference.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\obj\Debug\net6.0-windows\Textbox.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\obj\Debug\net6.0-windows\Textbox.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\obj\Debug\net6.0-windows\Textbox.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\obj\Debug\net6.0-windows\Textbox.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\obj\Debug\net6.0-windows\Textbox.csproj.CopyComplete
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\obj\Debug\net6.0-windows\Textbox.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\obj\Debug\net6.0-windows\refint\Textbox.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\obj\Debug\net6.0-windows\Textbox.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Textbox\obj\Debug\net6.0-windows\ref\Textbox.dll

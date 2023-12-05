@@ -9,14 +9,29 @@
       "PaintWindow/1.0.0": {
         "dependencies": {
           "Adorner": "1.0.0",
+          "Arrow2D": "1.0.0",
           "Contract": "1.0.0",
           "Curve": "1.0.0",
+          "Diamond2D": "1.0.0",
+          "Ellipse2D": "1.0.0",
           "Eraser": "1.0.0",
+          "FillColor": "1.0.0",
           "Fluent.Ribbon": "10.0.4",
+          "Heart2D": "1.0.0",
+          "Hexagon2D": "1.0.0",
+          "Image2D": "1.0.0",
           "Line2D": "1.0.0",
           "MaterialDesignColors": "2.1.4",
           "MaterialDesignThemes.Wpf": "1.0.1",
+          "Outline": "1.0.0",
           "PanAndZoom": "2.3.4",
+          "Retangle2D": "1.0.0",
+          "Select2D": "1.0.0",
+          "Square": "1.0.0",
+          "Start2D": "1.0.0",
+          "Textbox": "1.0.0",
+          "Triangle2D": "1.0.0",
+          "Utility": "1.0.0",
           "Wpf.Controls.PanAndZoom": "2.3.4"
         },
         "runtime": {
@@ -119,6 +134,15 @@
           "Adorner.dll": {}
         }
       },
+      "Arrow2D/1.0.0": {
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "Arrow2D.dll": {}
+        }
+      },
       "Contract/1.0.0": {
         "dependencies": {
           "MaterialDesignThemes": "2.2.0.725"
@@ -137,6 +161,24 @@
           "Curve.dll": {}
         }
       },
+      "Diamond2D/1.0.0": {
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "Diamond2D.dll": {}
+        }
+      },
+      "Ellipse2D/1.0.0": {
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "Ellipse2D.dll": {}
+        }
+      },
       "Eraser/1.0.0": {
         "dependencies": {
           "Adorner": "1.0.0",
@@ -148,6 +190,38 @@
           "Eraser.dll": {}
         }
       },
+      "FillColor/1.0.0": {
+        "runtime": {
+          "FillColor.dll": {}
+        }
+      },
+      "Heart2D/1.0.0": {
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "Heart2D.dll": {}
+        }
+      },
+      "Hexagon2D/1.0.0": {
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "Hexagon2D.dll": {}
+        }
+      },
+      "Image2D/1.0.0": {
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "Image2D.dll": {}
+        }
+      },
       "Line2D/1.0.0": {
         "dependencies": {
           "Adorner": "1.0.0",
@@ -156,6 +230,72 @@
         },
         "runtime": {
           "Line2D.dll": {}
+        }
+      },
+      "Outline/1.0.0": {
+        "runtime": {
+          "Outline.dll": {}
+        }
+      },
+      "Retangle2D/1.0.0": {
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "Retangle2D.dll": {}
+        }
+      },
+      "Select2D/1.0.0": {
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0",
+          "Outline": "1.0.0",
+          "Utility": "1.0.0"
+        },
+        "runtime": {
+          "Select2D.dll": {}
+        }
+      },
+      "Square/1.0.0": {
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "Square.dll": {}
+        }
+      },
+      "Start2D/1.0.0": {
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "Start2D.dll": {}
+        }
+      },
+      "Textbox/1.0.0": {
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "Textbox.dll": {}
+        }
+      },
+      "Triangle2D/1.0.0": {
+        "dependencies": {
+          "Adorner": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "Triangle2D.dll": {}
+        }
+      },
+      "Utility/1.0.0": {
+        "runtime": {
+          "Utility.dll": {}
         }
       }
     }
@@ -255,6 +395,11 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Arrow2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Contract/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -265,12 +410,82 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Diamond2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ellipse2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Eraser/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
+    "FillColor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Heart2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hexagon2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Image2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Line2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Outline/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Retangle2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Select2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Square/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Start2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Textbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Triangle2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

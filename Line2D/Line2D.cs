@@ -20,7 +20,7 @@ namespace Line2D
         private Canvas _canvas;
 
         public string Name => "Line";
-        public int IconKind => (int)PackIconKind.ChartLine;
+        public int IconKind => (int)PackIconKind.VectorLine;
         public Brush s_mColor { get; set; }
         public Brush s_sColor { get; set; }
         public int s_mThickness { get; set; }

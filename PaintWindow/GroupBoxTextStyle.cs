@@ -6,6 +6,8 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Media;
 
+
+
 namespace PaintWindow
 {
     public partial class MainWindow : Fluent.RibbonWindow

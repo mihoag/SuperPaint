@@ -1,0 +1,17 @@
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\bin\Debug\net6.0-windows\Hexagon2D.deps.json
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\bin\Debug\net6.0-windows\Hexagon2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\bin\Debug\net6.0-windows\Hexagon2D.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\obj\Debug\net6.0-windows\Hexagon2D.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\obj\Debug\net6.0-windows\Hexagon2D.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\obj\Debug\net6.0-windows\Hexagon2D.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\obj\Debug\net6.0-windows\Hexagon2D.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\obj\Debug\net6.0-windows\Hexagon2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\obj\Debug\net6.0-windows\refint\Hexagon2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\obj\Debug\net6.0-windows\Hexagon2D.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\obj\Debug\net6.0-windows\ref\Hexagon2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\bin\Debug\net6.0-windows\Adorner.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\bin\Debug\net6.0-windows\Contract.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\bin\Debug\net6.0-windows\Adorner.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\bin\Debug\net6.0-windows\Contract.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\obj\Debug\net6.0-windows\Hexagon2D.csproj.AssemblyReference.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Hexagon2D\obj\Debug\net6.0-windows\Hexagon2D.csproj.CopyComplete

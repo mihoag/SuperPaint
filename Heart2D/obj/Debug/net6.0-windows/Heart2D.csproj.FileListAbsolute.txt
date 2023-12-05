@@ -1,0 +1,17 @@
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\bin\Debug\net6.0-windows\Heart2D.deps.json
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\bin\Debug\net6.0-windows\Heart2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\bin\Debug\net6.0-windows\Heart2D.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\obj\Debug\net6.0-windows\Heart2D.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\obj\Debug\net6.0-windows\Heart2D.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\obj\Debug\net6.0-windows\Heart2D.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\obj\Debug\net6.0-windows\Heart2D.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\obj\Debug\net6.0-windows\Heart2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\obj\Debug\net6.0-windows\refint\Heart2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\obj\Debug\net6.0-windows\Heart2D.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\obj\Debug\net6.0-windows\ref\Heart2D.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\bin\Debug\net6.0-windows\Adorner.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\bin\Debug\net6.0-windows\Contract.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\bin\Debug\net6.0-windows\Adorner.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\bin\Debug\net6.0-windows\Contract.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\obj\Debug\net6.0-windows\Heart2D.csproj.AssemblyReference.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Heart2D\obj\Debug\net6.0-windows\Heart2D.csproj.CopyComplete

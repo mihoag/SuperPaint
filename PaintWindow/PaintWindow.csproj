@@ -17,10 +17,25 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Adorner\Adorner.csproj" />
+    <ProjectReference Include="..\Arrow2D\Arrow2D.csproj" />
     <ProjectReference Include="..\Contract\Contract.csproj" />
     <ProjectReference Include="..\Curve\Curve.csproj" />
+    <ProjectReference Include="..\Diamond2D\Diamond2D.csproj" />
+    <ProjectReference Include="..\Ellipse2D\Ellipse2D.csproj" />
     <ProjectReference Include="..\Eraser\Eraser.csproj" />
+    <ProjectReference Include="..\FillColor\FillColor.csproj" />
+    <ProjectReference Include="..\Heart2D\Heart2D.csproj" />
+    <ProjectReference Include="..\Hexagon2D\Hexagon2D.csproj" />
+    <ProjectReference Include="..\Image2D\Image2D.csproj" />
     <ProjectReference Include="..\Line2D\Line2D.csproj" />
+    <ProjectReference Include="..\Outline\Outline.csproj" />
+    <ProjectReference Include="..\Retangle2D\Retangle2D.csproj" />
+    <ProjectReference Include="..\Select2D\Select2D.csproj" />
+    <ProjectReference Include="..\Square\Square.csproj" />
+    <ProjectReference Include="..\Start2D\Start2D.csproj" />
+    <ProjectReference Include="..\Textbox\Textbox.csproj" />
+    <ProjectReference Include="..\Triangle2D\Triangle2D.csproj" />
+    <ProjectReference Include="..\Utilities\Utility.csproj" />
   </ItemGroup>
 
 </Project>

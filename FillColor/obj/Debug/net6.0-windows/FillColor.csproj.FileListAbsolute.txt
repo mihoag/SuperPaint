@@ -1,0 +1,11 @@
+F:\HK3_Nam1\windowPropraming\projectPaint\FillColor\bin\Debug\net6.0-windows\FillColor.deps.json
+F:\HK3_Nam1\windowPropraming\projectPaint\FillColor\bin\Debug\net6.0-windows\FillColor.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\FillColor\bin\Debug\net6.0-windows\FillColor.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\FillColor\obj\Debug\net6.0-windows\FillColor.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\projectPaint\FillColor\obj\Debug\net6.0-windows\FillColor.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\FillColor\obj\Debug\net6.0-windows\FillColor.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\projectPaint\FillColor\obj\Debug\net6.0-windows\FillColor.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\FillColor\obj\Debug\net6.0-windows\FillColor.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\FillColor\obj\Debug\net6.0-windows\refint\FillColor.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\FillColor\obj\Debug\net6.0-windows\FillColor.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\FillColor\obj\Debug\net6.0-windows\ref\FillColor.dll

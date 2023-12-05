@@ -1,0 +1,11 @@
+F:\HK3_Nam1\windowPropraming\projectPaint\Utilities\bin\Debug\net6.0-windows\Utility.deps.json
+F:\HK3_Nam1\windowPropraming\projectPaint\Utilities\bin\Debug\net6.0-windows\Utility.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Utilities\bin\Debug\net6.0-windows\Utility.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Utilities\obj\Debug\net6.0-windows\Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\projectPaint\Utilities\obj\Debug\net6.0-windows\Utility.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Utilities\obj\Debug\net6.0-windows\Utility.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\projectPaint\Utilities\obj\Debug\net6.0-windows\Utility.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaint\Utilities\obj\Debug\net6.0-windows\Utility.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Utilities\obj\Debug\net6.0-windows\refint\Utility.dll
+F:\HK3_Nam1\windowPropraming\projectPaint\Utilities\obj\Debug\net6.0-windows\Utility.pdb
+F:\HK3_Nam1\windowPropraming\projectPaint\Utilities\obj\Debug\net6.0-windows\ref\Utility.dll

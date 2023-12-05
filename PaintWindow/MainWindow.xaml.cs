@@ -20,6 +20,7 @@ using System.Windows.Shapes;
 using Eraser;
 using Microsoft.Win32;
 
+
 namespace PaintWindow
 {
     public partial class MainWindow : Fluent.RibbonWindow
@@ -114,32 +115,16 @@ namespace PaintWindow
                 button.Width = 20;
                 button.Margin = new Thickness(2);
                 button.Background = new SolidColorBrush((Color)color.GetValue(null, null));
-                button.Focusable = false;
+                button.Focusable = false;  
 
                 button.Click += colorButton_Click;
                 colors.Children.Add(button);
             }
 
-            //Thêm curve vào danh sách
+
+
+
             curve cur = new curve();
-            // _prototypes.Add(curve.Name, curve);
-
-            //Thêm eraser vào danh sách
-            eraser era = new eraser();
-            // _prototypes.Add(eraser.Name, eraser);
-
-            //Thêm textbox vào danh sách
-            Textbox2D txb = new Textbox2D();
-            // _prototypes.Add(txb.Name, txb);
-
-            //Thêm select vào danh sách
-            Select2D select = new Select2D();
-            //_prototypes.Add(select.Name, select);
-
-            // Thêm Image vào danh sách
-            Image2D image = new Image2D();
-            //  _prototypes.Add(image.Name, image);
-
             //Cấu hình thông số ban đầu
             _selectedShapeName = cur.Name;
             _selectedmColor = new SolidColorBrush(Colors.Black);
@@ -408,7 +393,7 @@ namespace PaintWindow
                         Color pxlColor = GetPixelColor(paintCanvas, ptClicked);
                         var converter = new System.Windows.Media.BrushConverter();
                         var brush = (Brush)converter.ConvertFromString(pxlColor.ToString());
-                        //MessageBox.Show("HEX: " + brush.ToString());
+                       
                         mainColor.Background = brush;
                         _selectedmColor = brush;
                         _preview.s_mColor = brush;
@@ -469,7 +454,9 @@ namespace PaintWindow
             Point pos = e.GetPosition(paintCanvas);
             if (pos.X != _startPoint.X && pos.Y != _startPoint.Y)
             {
-                // Thêm đối tượng cuối cùng vào mảng quản lí        
+                // Thêm đối tượng cuối cùng vào mảng quản lí
+                // 
+               // MessageBox.Show(_preview.Name);
                 _shapes.Add(_preview);
                 //Shape currShape = (Shape)_preview;
 
