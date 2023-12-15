@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPhsp2F51UvSyWJVGsulu60XGymPEcYxYxY0KoGk4cC8D7EJ4CkAGbdBitW+QBbsZYwWCrmVCTlvkmmIRx1oOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

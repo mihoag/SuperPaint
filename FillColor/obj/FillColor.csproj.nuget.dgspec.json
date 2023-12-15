@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\FillColor\\FillColor.csproj": {}
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\Super-Paint\\FillColor\\FillColor.csproj": {}
   },
   "projects": {
-    "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\FillColor\\FillColor.csproj": {
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\Super-Paint\\FillColor\\FillColor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\FillColor\\FillColor.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\Super-Paint\\FillColor\\FillColor.csproj",
         "projectName": "FillColor",
-        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\FillColor\\FillColor.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaint\\FillColor\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\Super-Paint\\FillColor\\FillColor.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\Super-Paint\\FillColor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

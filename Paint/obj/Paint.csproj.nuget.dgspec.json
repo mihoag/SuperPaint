@@ -1,0 +1,1433 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Paint\\Paint.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj",
+        "projectName": "AdornerLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ArrowLib\\ArrowLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ArrowLib\\ArrowLib.csproj",
+        "projectName": "ArrowLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ArrowLib\\ArrowLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ArrowLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj",
+        "projectName": "Contract",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\CurveLib\\CurveLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\CurveLib\\CurveLib.csproj",
+        "projectName": "CurveLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\CurveLib\\CurveLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\CurveLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\DiamonLib\\DiamonLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\DiamonLib\\DiamonLib.csproj",
+        "projectName": "DiamonLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\DiamonLib\\DiamonLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\DiamonLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ElipseLib\\ElipseLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ElipseLib\\ElipseLib.csproj",
+        "projectName": "ElipseLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ElipseLib\\ElipseLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ElipseLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\EraserLib\\EraserLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\EraserLib\\EraserLib.csproj",
+        "projectName": "EraserLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\EraserLib\\EraserLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\EraserLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\FillColorLib.csproj",
+        "projectName": "FillColorLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\FillColorLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HeartLib\\HeartLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HeartLib\\HeartLib.csproj",
+        "projectName": "HeartLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HeartLib\\HeartLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HeartLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HexagonLib\\HexagonLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HexagonLib\\HexagonLib.csproj",
+        "projectName": "HexagonLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HexagonLib\\HexagonLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HexagonLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ImageLib\\ImageLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ImageLib\\ImageLib.csproj",
+        "projectName": "ImageLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ImageLib\\ImageLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ImageLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\OutlineLib\\OutlineLib.csproj",
+        "projectName": "OutlineLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\OutlineLib\\OutlineLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\OutlineLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Paint\\Paint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Paint\\Paint.csproj",
+        "projectName": "Paint",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Paint\\Paint.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Paint\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ArrowLib\\ArrowLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ArrowLib\\ArrowLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\CurveLib\\CurveLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\CurveLib\\CurveLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\DiamonLib\\DiamonLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\DiamonLib\\DiamonLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ElipseLib\\ElipseLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ElipseLib\\ElipseLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\EraserLib\\EraserLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\EraserLib\\EraserLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\FillColorLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HeartLib\\HeartLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HeartLib\\HeartLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HexagonLib\\HexagonLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HexagonLib\\HexagonLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ImageLib\\ImageLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ImageLib\\ImageLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\OutlineLib\\OutlineLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\RectangleLib\\RectangleLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\RectangleLib\\RectangleLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SelectLib\\SelectLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SelectLib\\SelectLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SquareLib\\SquareLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SquareLib\\SquareLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\StarLib\\StarLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\StarLib\\StarLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TriangleLib\\TriangleLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TriangleLib\\TriangleLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Fluent.Ribbon": {
+              "target": "Package",
+              "version": "[10.0.4, )"
+            },
+            "MaterialDesignColors": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "MaterialDesignThemes.Wpf": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "PanAndZoom": {
+              "target": "Package",
+              "version": "[2.3.4, )"
+            },
+            "Wpf.Controls.PanAndZoom": {
+              "target": "Package",
+              "version": "[2.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\RectangleLib\\RectangleLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\RectangleLib\\RectangleLib.csproj",
+        "projectName": "RectangleLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\RectangleLib\\RectangleLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\RectangleLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SelectLib\\SelectLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SelectLib\\SelectLib.csproj",
+        "projectName": "SelectLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SelectLib\\SelectLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SelectLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SquareLib\\SquareLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SquareLib\\SquareLib.csproj",
+        "projectName": "SquareLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SquareLib\\SquareLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SquareLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\StarLib\\StarLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\StarLib\\StarLib.csproj",
+        "projectName": "StarLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\StarLib\\StarLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\StarLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj",
+        "projectName": "TextBoxLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TextBoxLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TriangleLib\\TriangleLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TriangleLib\\TriangleLib.csproj",
+        "projectName": "TriangleLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TriangleLib\\TriangleLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TriangleLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              },
+              "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj",
+        "projectName": "UltilitiesLib",
+        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\UltilitiesLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

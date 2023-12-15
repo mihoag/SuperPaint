@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N6A20A/xYHEF0eohhVxssEBLyGiEcz9YrofdvFXjmXrBPkJPxES8W6RGLZ1cvL0+pXbQwPnvv8HJad88ggd2yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\StarLib\\StarLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qIEtoc3LsL1mLcknE9OaiLkLIu6B5NdXqwffTAVngin97+/LgMAvL+WEDa4JTFUsi4nD6qMXT1upqjxWtiHIog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\LineLib\\LineLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

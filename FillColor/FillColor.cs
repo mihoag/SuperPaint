@@ -5,22 +5,21 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Media;
 
-namespace PaintWindow
-{
-    public class FillColor
-    {
-        public string Name
-        {
-            get; set;
-        }
-        public Brush Value
-        {
-            get; set;
-        }
+namespace Paint;
 
-        public override string ToString()
-        {
-            return Name;
-        }
+public class FillColor
+{
+    public string? Name
+    {
+        get; set;
+    }
+    public Brush? Value
+    {
+        get; set;
+    }
+
+    public override string ToString()
+    {
+        return Name;
     }
 }

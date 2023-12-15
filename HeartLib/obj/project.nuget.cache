@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tqkWd9jVM4ExR/E29FC3/mYY80fDKoQZTeAIk/8SYEXzk95lAIVh76ViAkgV2hf93h7fZH4BbEzJK8O0lo8p9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HeartLib\\HeartLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
