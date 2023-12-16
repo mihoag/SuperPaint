@@ -18,7 +18,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ArrowBotLib\ArrowBotLib.csproj" />
     <ProjectReference Include="..\ArrowLib\ArrowLib.csproj" />
+    <ProjectReference Include="..\CircleLib\CircleLib.csproj" />
     <ProjectReference Include="..\CurveLib\CurveLib.csproj" />
     <ProjectReference Include="..\DiamonLib\DiamonLib.csproj" />
     <ProjectReference Include="..\ElipseLib\ElipseLib.csproj" />
@@ -27,13 +29,24 @@
     <ProjectReference Include="..\HeartLib\HeartLib.csproj" />
     <ProjectReference Include="..\HexagonLib\HexagonLib.csproj" />
     <ProjectReference Include="..\ImageLib\ImageLib.csproj" />
+    <ProjectReference Include="..\LeftArrowLib\LeftArrowLib.csproj" />
+    <ProjectReference Include="..\LightningLib\LightningLib.csproj" />
+    <ProjectReference Include="..\LineLib\LineLib.csproj" />
+    <ProjectReference Include="..\MessLib\MessLib.csproj" />
     <ProjectReference Include="..\OutlineLib\OutlineLib.csproj" />
+    <ProjectReference Include="..\PentagonLib\PentagonLib.csproj" />
+    <ProjectReference Include="..\PlusLib\PlusLib.csproj" />
     <ProjectReference Include="..\RectangleLib\RectangleLib.csproj" />
     <ProjectReference Include="..\SelectLib\SelectLib.csproj" />
     <ProjectReference Include="..\SquareLib\SquareLib.csproj" />
     <ProjectReference Include="..\StarLib\StarLib.csproj" />
+    <ProjectReference Include="..\Start3pointsLib\Start3pointsLib.csproj" />
+    <ProjectReference Include="..\start4point\start4pointLib.csproj" />
+    <ProjectReference Include="..\StartSixPoint\StartSixPoint.csproj" />
     <ProjectReference Include="..\TextBoxLib\TextBoxLib.csproj" />
+    <ProjectReference Include="..\TopArrow\TopArrowLib.csproj" />
     <ProjectReference Include="..\TriangleLib\TriangleLib.csproj" />
+    <ProjectReference Include="..\triangleRightLib\triangleRightLib.csproj" />
     <ProjectReference Include="..\UltilitiesLib\UltilitiesLib.csproj" />
   </ItemGroup>
 

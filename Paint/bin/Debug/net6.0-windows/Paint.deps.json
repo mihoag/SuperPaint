@@ -8,7 +8,9 @@
     ".NETCoreApp,Version=v6.0": {
       "Paint/1.0.0": {
         "dependencies": {
+          "ArrowBotLib": "1.0.0",
           "ArrowLib": "1.0.0",
+          "CircleLib": "1.0.0",
           "CurveLib": "1.0.0",
           "DiamonLib": "1.0.0",
           "ElipseLib": "1.0.0",
@@ -18,19 +20,30 @@
           "HeartLib": "1.0.0",
           "HexagonLib": "1.0.0",
           "ImageLib": "1.0.0",
+          "LeftArrowLib": "1.0.0",
+          "LightningLib": "1.0.0",
+          "LineLib": "1.0.0",
           "MaterialDesignColors": "2.1.4",
           "MaterialDesignThemes": "4.9.0",
           "MaterialDesignThemes.Wpf": "1.0.1",
+          "MessLib": "1.0.0",
           "OutlineLib": "1.0.0",
           "PanAndZoom": "2.3.4",
+          "PentagonLib": "1.0.0",
+          "PlusLib": "1.0.0",
           "RectangleLib": "1.0.0",
           "SelectLib": "1.0.0",
           "SquareLib": "1.0.0",
           "StarLib": "1.0.0",
+          "Start3pointsLib": "1.0.0",
+          "StartSixPoint": "1.0.0",
           "TextBoxLib": "1.0.0",
+          "TopArrowLib": "1.0.0",
           "TriangleLib": "1.0.0",
           "UltilitiesLib": "1.0.0",
-          "Wpf.Controls.PanAndZoom": "2.3.4"
+          "Wpf.Controls.PanAndZoom": "2.3.4",
+          "start4pointLib": "1.0.0",
+          "triangleRightLib": "1.0.0"
         },
         "runtime": {
           "Paint.dll": {}
@@ -133,6 +146,15 @@
           "AdornerLib.dll": {}
         }
       },
+      "ArrowBotLib/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "ArrowBotLib.dll": {}
+        }
+      },
       "ArrowLib/1.0.0": {
         "dependencies": {
           "AdornerLib": "1.0.0",
@@ -140,6 +162,15 @@
         },
         "runtime": {
           "ArrowLib.dll": {}
+        }
+      },
+      "CircleLib/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "CircleLib.dll": {}
         }
       },
       "Contract/1.0.0": {
@@ -216,9 +247,63 @@
           "ImageLib.dll": {}
         }
       },
+      "LeftArrowLib/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "LeftArrowLib.dll": {}
+        }
+      },
+      "LightningLib/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "LightningLib.dll": {}
+        }
+      },
+      "LineLib/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "LineLib.dll": {}
+        }
+      },
+      "MessLib/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "MessLib.dll": {}
+        }
+      },
       "OutlineLib/1.0.0": {
         "runtime": {
           "OutlineLib.dll": {}
+        }
+      },
+      "PentagonLib/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "PentagonLib.dll": {}
+        }
+      },
+      "PlusLib/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "PlusLib.dll": {}
         }
       },
       "RectangleLib/1.0.0": {
@@ -258,6 +343,33 @@
           "StarLib.dll": {}
         }
       },
+      "Start3pointsLib/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "Start3pointsLib.dll": {}
+        }
+      },
+      "start4pointLib/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "start4pointLib.dll": {}
+        }
+      },
+      "StartSixPoint/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "StartSixPoint.dll": {}
+        }
+      },
       "TextBoxLib/1.0.0": {
         "dependencies": {
           "AdornerLib": "1.0.0",
@@ -267,6 +379,15 @@
           "TextBoxLib.dll": {}
         }
       },
+      "TopArrowLib/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "TopArrowLib.dll": {}
+        }
+      },
       "TriangleLib/1.0.0": {
         "dependencies": {
           "AdornerLib": "1.0.0",
@@ -274,6 +395,15 @@
         },
         "runtime": {
           "TriangleLib.dll": {}
+        }
+      },
+      "triangleRightLib/1.0.0": {
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "triangleRightLib.dll": {}
         }
       },
       "UltilitiesLib/1.0.0": {
@@ -378,7 +508,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "ArrowBotLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "ArrowLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CircleLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -428,7 +568,37 @@
       "serviceable": false,
       "sha512": ""
     },
+    "LeftArrowLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LightningLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LineLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MessLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "OutlineLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PentagonLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlusLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -453,12 +623,37 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Start3pointsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "start4pointLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StartSixPoint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "TextBoxLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
+    "TopArrowLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "TriangleLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "triangleRightLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

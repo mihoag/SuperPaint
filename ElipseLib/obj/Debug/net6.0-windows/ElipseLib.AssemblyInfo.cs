@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElipseLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b857b47f75cd69d99aafb50ef49d365456a8fb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElipseLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElipseLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -22,3 +22,14 @@ C:\Users\ADMIN\Workspace\Windows-C#\SuperPaint\FillColorLib\obj\Debug\net6.0-win
 C:\Users\ADMIN\Workspace\Windows-C#\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\refint\FillColorLib.dll
 C:\Users\ADMIN\Workspace\Windows-C#\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.pdb
 C:\Users\ADMIN\Workspace\Windows-C#\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\ref\FillColorLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\FillColorLib\bin\Debug\net6.0-windows\FillColorLib.deps.json
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\FillColorLib\bin\Debug\net6.0-windows\FillColorLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\FillColorLib\bin\Debug\net6.0-windows\FillColorLib.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\refint\FillColorLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\ref\FillColorLib.dll

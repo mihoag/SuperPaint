@@ -205,6 +205,23 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "ArrowBotLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ArrowBotLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArrowBotLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "ArrowLib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -217,6 +234,23 @@
         },
         "runtime": {
           "bin/placeholder/ArrowLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "CircleLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CircleLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CircleLib.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -368,6 +402,74 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "LeftArrowLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LeftArrowLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeftArrowLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "LightningLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LightningLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LightningLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "LineLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LineLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LineLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "MessLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MessLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MessLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "OutlineLib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -376,6 +478,40 @@
         },
         "runtime": {
           "bin/placeholder/OutlineLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "PentagonLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PentagonLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PentagonLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "PlusLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PlusLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlusLib.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -450,6 +586,57 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "Start3pointsLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Start3pointsLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Start3pointsLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "start4pointLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/start4pointLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/start4pointLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "StartSixPoint/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StartSixPoint.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StartSixPoint.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "TextBoxLib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -467,6 +654,23 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "TopArrowLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TopArrowLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TopArrowLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "TriangleLib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -479,6 +683,23 @@
         },
         "runtime": {
           "bin/placeholder/TriangleLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "triangleRightLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AdornerLib": "1.0.0",
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/triangleRightLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/triangleRightLib.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -803,10 +1024,20 @@
       "path": "../AdornerLib/AdornerLib.csproj",
       "msbuildProject": "../AdornerLib/AdornerLib.csproj"
     },
+    "ArrowBotLib/1.0.0": {
+      "type": "project",
+      "path": "../ArrowBotLib/ArrowBotLib.csproj",
+      "msbuildProject": "../ArrowBotLib/ArrowBotLib.csproj"
+    },
     "ArrowLib/1.0.0": {
       "type": "project",
       "path": "../ArrowLib/ArrowLib.csproj",
       "msbuildProject": "../ArrowLib/ArrowLib.csproj"
+    },
+    "CircleLib/1.0.0": {
+      "type": "project",
+      "path": "../CircleLib/CircleLib.csproj",
+      "msbuildProject": "../CircleLib/CircleLib.csproj"
     },
     "Contract/1.0.0": {
       "type": "project",
@@ -853,10 +1084,40 @@
       "path": "../ImageLib/ImageLib.csproj",
       "msbuildProject": "../ImageLib/ImageLib.csproj"
     },
+    "LeftArrowLib/1.0.0": {
+      "type": "project",
+      "path": "../LeftArrowLib/LeftArrowLib.csproj",
+      "msbuildProject": "../LeftArrowLib/LeftArrowLib.csproj"
+    },
+    "LightningLib/1.0.0": {
+      "type": "project",
+      "path": "../LightningLib/LightningLib.csproj",
+      "msbuildProject": "../LightningLib/LightningLib.csproj"
+    },
+    "LineLib/1.0.0": {
+      "type": "project",
+      "path": "../LineLib/LineLib.csproj",
+      "msbuildProject": "../LineLib/LineLib.csproj"
+    },
+    "MessLib/1.0.0": {
+      "type": "project",
+      "path": "../MessLib/MessLib.csproj",
+      "msbuildProject": "../MessLib/MessLib.csproj"
+    },
     "OutlineLib/1.0.0": {
       "type": "project",
       "path": "../OutlineLib/OutlineLib.csproj",
       "msbuildProject": "../OutlineLib/OutlineLib.csproj"
+    },
+    "PentagonLib/1.0.0": {
+      "type": "project",
+      "path": "../PentagonLib/PentagonLib.csproj",
+      "msbuildProject": "../PentagonLib/PentagonLib.csproj"
+    },
+    "PlusLib/1.0.0": {
+      "type": "project",
+      "path": "../PlusLib/PlusLib.csproj",
+      "msbuildProject": "../PlusLib/PlusLib.csproj"
     },
     "RectangleLib/1.0.0": {
       "type": "project",
@@ -878,15 +1139,40 @@
       "path": "../StarLib/StarLib.csproj",
       "msbuildProject": "../StarLib/StarLib.csproj"
     },
+    "Start3pointsLib/1.0.0": {
+      "type": "project",
+      "path": "../Start3pointsLib/Start3pointsLib.csproj",
+      "msbuildProject": "../Start3pointsLib/Start3pointsLib.csproj"
+    },
+    "start4pointLib/1.0.0": {
+      "type": "project",
+      "path": "../start4point/start4pointLib.csproj",
+      "msbuildProject": "../start4point/start4pointLib.csproj"
+    },
+    "StartSixPoint/1.0.0": {
+      "type": "project",
+      "path": "../StartSixPoint/StartSixPoint.csproj",
+      "msbuildProject": "../StartSixPoint/StartSixPoint.csproj"
+    },
     "TextBoxLib/1.0.0": {
       "type": "project",
       "path": "../TextBoxLib/TextBoxLib.csproj",
       "msbuildProject": "../TextBoxLib/TextBoxLib.csproj"
     },
+    "TopArrowLib/1.0.0": {
+      "type": "project",
+      "path": "../TopArrow/TopArrowLib.csproj",
+      "msbuildProject": "../TopArrow/TopArrowLib.csproj"
+    },
     "TriangleLib/1.0.0": {
       "type": "project",
       "path": "../TriangleLib/TriangleLib.csproj",
       "msbuildProject": "../TriangleLib/TriangleLib.csproj"
+    },
+    "triangleRightLib/1.0.0": {
+      "type": "project",
+      "path": "../triangleRightLib/triangleRightLib.csproj",
+      "msbuildProject": "../triangleRightLib/triangleRightLib.csproj"
     },
     "UltilitiesLib/1.0.0": {
       "type": "project",
@@ -896,7 +1182,9 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
+      "ArrowBotLib >= 1.0.0",
       "ArrowLib >= 1.0.0",
+      "CircleLib >= 1.0.0",
       "CurveLib >= 1.0.0",
       "DiamonLib >= 1.0.0",
       "ElipseLib >= 1.0.0",
@@ -906,39 +1194,50 @@
       "HeartLib >= 1.0.0",
       "HexagonLib >= 1.0.0",
       "ImageLib >= 1.0.0",
+      "LeftArrowLib >= 1.0.0",
+      "LightningLib >= 1.0.0",
+      "LineLib >= 1.0.0",
       "MaterialDesignColors >= 2.1.4",
       "MaterialDesignThemes >= 4.9.0",
       "MaterialDesignThemes.Wpf >= 1.0.1",
+      "MessLib >= 1.0.0",
       "OutlineLib >= 1.0.0",
       "PanAndZoom >= 2.3.4",
+      "PentagonLib >= 1.0.0",
+      "PlusLib >= 1.0.0",
       "RectangleLib >= 1.0.0",
       "SelectLib >= 1.0.0",
       "SquareLib >= 1.0.0",
       "StarLib >= 1.0.0",
+      "Start3pointsLib >= 1.0.0",
+      "StartSixPoint >= 1.0.0",
       "TextBoxLib >= 1.0.0",
+      "TopArrowLib >= 1.0.0",
       "TriangleLib >= 1.0.0",
       "UltilitiesLib >= 1.0.0",
-      "Wpf.Controls.PanAndZoom >= 2.3.4"
+      "Wpf.Controls.PanAndZoom >= 2.3.4",
+      "start4pointLib >= 1.0.0",
+      "triangleRightLib >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Paint\\Paint.csproj",
+      "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\Paint\\Paint.csproj",
       "projectName": "Paint",
-      "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Paint\\Paint.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Paint\\obj\\",
+      "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\Paint\\Paint.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\Paint\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -953,56 +1252,95 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ArrowLib\\ArrowLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ArrowLib\\ArrowLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\CurveLib\\CurveLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\CurveLib\\CurveLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\ArrowLib\\ArrowLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\ArrowLib\\ArrowLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\DiamonLib\\DiamonLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\DiamonLib\\DiamonLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\CircleLib\\CircleLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\CircleLib\\CircleLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ElipseLib\\ElipseLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ElipseLib\\ElipseLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\CurveLib\\CurveLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\CurveLib\\CurveLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\EraserLib\\EraserLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\EraserLib\\EraserLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\DiamonLib\\DiamonLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\DiamonLib\\DiamonLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\FillColorLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\ElipseLib\\ElipseLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\ElipseLib\\ElipseLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HeartLib\\HeartLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HeartLib\\HeartLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\EraserLib\\EraserLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\EraserLib\\EraserLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HexagonLib\\HexagonLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\HexagonLib\\HexagonLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\FillColorLib\\FillColorLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ImageLib\\ImageLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\ImageLib\\ImageLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\HeartLib\\HeartLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\HeartLib\\HeartLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\OutlineLib\\OutlineLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\HexagonLib\\HexagonLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\HexagonLib\\HexagonLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\RectangleLib\\RectangleLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\RectangleLib\\RectangleLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\ImageLib\\ImageLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\ImageLib\\ImageLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SelectLib\\SelectLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SelectLib\\SelectLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SquareLib\\SquareLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\SquareLib\\SquareLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\LightningLib\\LightningLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\LightningLib\\LightningLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\StarLib\\StarLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\StarLib\\StarLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\LineLib\\LineLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\LineLib\\LineLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\MessLib\\MessLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\MessLib\\MessLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TriangleLib\\TriangleLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\TriangleLib\\TriangleLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\OutlineLib\\OutlineLib.csproj"
             },
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\PentagonLib\\PentagonLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\PentagonLib\\PentagonLib.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\PlusLib\\PlusLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\PlusLib\\PlusLib.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\RectangleLib\\RectangleLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\RectangleLib\\RectangleLib.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\SelectLib\\SelectLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\SelectLib\\SelectLib.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\SquareLib\\SquareLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\SquareLib\\SquareLib.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\StarLib\\StarLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\StarLib\\StarLib.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\start4point\\start4pointLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\start4point\\start4pointLib.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\TopArrow\\TopArrowLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\TopArrow\\TopArrowLib.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\TriangleLib\\TriangleLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\TriangleLib\\TriangleLib.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj"
+            },
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj"
             }
           }
         }
@@ -1061,7 +1399,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

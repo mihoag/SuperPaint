@@ -1,0 +1,17 @@
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\bin\Debug\net6.0-windows\triangleRightLib.deps.json
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\bin\Debug\net6.0-windows\triangleRightLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\bin\Debug\net6.0-windows\triangleRightLib.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\bin\Debug\net6.0-windows\AdornerLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\bin\Debug\net6.0-windows\Contract.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\bin\Debug\net6.0-windows\AdornerLib.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\bin\Debug\net6.0-windows\Contract.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\obj\Debug\net6.0-windows\triangleRightLib.csproj.AssemblyReference.cache
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\obj\Debug\net6.0-windows\triangleRightLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\obj\Debug\net6.0-windows\triangleRightLib.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\obj\Debug\net6.0-windows\triangleRightLib.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\obj\Debug\net6.0-windows\triangleRightLib.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\obj\Debug\net6.0-windows\triangleRightLib.csproj.CopyComplete
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\obj\Debug\net6.0-windows\triangleRightLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\obj\Debug\net6.0-windows\refint\triangleRightLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\obj\Debug\net6.0-windows\triangleRightLib.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\triangleRightLib\obj\Debug\net6.0-windows\ref\triangleRightLib.dll

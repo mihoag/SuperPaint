@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fchRFKqOTjF4OWVycW43ctz4y09dnHeRml5Ck6YtYGoEjO0r1+X7NmfDdnmN7PVW16/5Wxo79VTrTruoSlxFow==",
+  "dgSpecHash": "hxg+FAjP7SUHxmnFSRyRur+OV62nho5B48r+ynwT9Rm3WwM9zqybPwzujZeN0WvPdTRnXsQ8Nym1zbWfWGLurA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\EraserLib\\EraserLib.csproj",
+  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\EraserLib\\EraserLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
   "logs": []
 }

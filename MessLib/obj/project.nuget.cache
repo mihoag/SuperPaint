@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5KMiT5y1Ck3TlVMGpzubqFld4JdlANyyEtmlijKRajjIUMkkkg60Pgg97GdRZawKtsTNJ9mOCTCwSNL2J1dfDA==",
+  "success": true,
+  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\MessLib\\MessLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

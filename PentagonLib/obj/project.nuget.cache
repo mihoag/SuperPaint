@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZAIe8uDOyZ2RiZf9VbqdXLo8QUOOmebZq9/zsmRl1/kiMEPrV3uQwC/tRo7kavjWZM3j3b0hXsG8I1iiGByBw==",
+  "success": true,
+  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\PentagonLib\\PentagonLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

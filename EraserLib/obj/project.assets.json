@@ -172,23 +172,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\EraserLib\\EraserLib.csproj",
+      "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\EraserLib\\EraserLib.csproj",
       "projectName": "EraserLib",
-      "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\EraserLib\\EraserLib.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\EraserLib\\obj\\",
+      "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\EraserLib\\EraserLib.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\EraserLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -203,8 +203,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Contract\\Contract.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\Contract\\Contract.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\Contract\\Contract.csproj"
             }
           }
         }
@@ -237,7 +237,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

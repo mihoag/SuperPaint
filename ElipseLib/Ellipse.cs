@@ -20,6 +20,7 @@ public class EllipseShape  : IShape
     private Canvas _canvas;
 
     public string Name =>  "Ellipse";
+    //
     public int IconKind => (int)PackIconKind.EllipseOutline;
     public Brush s_mColor { get; set; }
     public Brush s_sColor { get; set; }

@@ -1,0 +1,17 @@
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\bin\Debug\net6.0-windows\PentagonLib.deps.json
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\bin\Debug\net6.0-windows\PentagonLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\bin\Debug\net6.0-windows\PentagonLib.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\bin\Debug\net6.0-windows\AdornerLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\bin\Debug\net6.0-windows\Contract.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\bin\Debug\net6.0-windows\AdornerLib.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\bin\Debug\net6.0-windows\Contract.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\obj\Debug\net6.0-windows\PentagonLib.csproj.AssemblyReference.cache
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\obj\Debug\net6.0-windows\PentagonLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\obj\Debug\net6.0-windows\PentagonLib.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\obj\Debug\net6.0-windows\PentagonLib.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\obj\Debug\net6.0-windows\PentagonLib.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\obj\Debug\net6.0-windows\PentagonLib.csproj.CopyComplete
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\obj\Debug\net6.0-windows\PentagonLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\obj\Debug\net6.0-windows\refint\PentagonLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\obj\Debug\net6.0-windows\PentagonLib.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\PentagonLib\obj\Debug\net6.0-windows\ref\PentagonLib.dll

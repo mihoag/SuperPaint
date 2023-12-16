@@ -1,21 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "QHNDkRXGBR/x2hbD7no5Rs30BP35MpMjcDOunNt+y9jLvja3Gf0WF/vhNdHoFsY3u+rVPHIC3DSCwCnwRqYR2A==",
+  "dgSpecHash": "KhMVbffvY+ZCb+zhy2WuMcrHdBewkzNU0FiwBpucPofhjZTEsaQhfvopZMQLyaeHoYCizIIZDqXK1kSaEt3qPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\Paint\\Paint.csproj",
+  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\Paint\\Paint.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ADMIN\\.nuget\\packages\\controlzex\\6.0.0\\controlzex.6.0.0.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\fluent.ribbon\\10.0.4\\fluent.ribbon.10.0.4.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\materialdesignthemes.wpf\\1.0.1\\materialdesignthemes.wpf.1.0.1.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\panandzoom\\2.3.4\\panandzoom.2.3.4.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\system.data.datasetextensions\\4.6.0-preview3.19128.7\\system.data.datasetextensions.4.6.0-preview3.19128.7.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\wpf.controls.panandzoom\\2.3.4\\wpf.controls.panandzoom.2.3.4.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\wpf.matrixextensions\\2.3.4\\wpf.matrixextensions.2.3.4.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\controlzex\\6.0.0\\controlzex.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\fluent.ribbon\\10.0.4\\fluent.ribbon.10.0.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes.wpf\\1.0.1\\materialdesignthemes.wpf.1.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\panandzoom\\2.3.4\\panandzoom.2.3.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.6.0-preview3.19128.7\\system.data.datasetextensions.4.6.0-preview3.19128.7.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\wpf.controls.panandzoom\\2.3.4\\wpf.controls.panandzoom.2.3.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\wpf.matrixextensions\\2.3.4\\wpf.matrixextensions.2.3.4.nupkg.sha512"
   ],
   "logs": []
 }

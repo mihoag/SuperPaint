@@ -1,0 +1,17 @@
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\bin\Debug\net6.0-windows\Start3pointsLib.deps.json
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\bin\Debug\net6.0-windows\Start3pointsLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\bin\Debug\net6.0-windows\Start3pointsLib.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\bin\Debug\net6.0-windows\AdornerLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\bin\Debug\net6.0-windows\Contract.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\bin\Debug\net6.0-windows\AdornerLib.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\bin\Debug\net6.0-windows\Contract.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\obj\Debug\net6.0-windows\Start3pointsLib.csproj.AssemblyReference.cache
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\obj\Debug\net6.0-windows\Start3pointsLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\obj\Debug\net6.0-windows\Start3pointsLib.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\obj\Debug\net6.0-windows\Start3pointsLib.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\obj\Debug\net6.0-windows\Start3pointsLib.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\obj\Debug\net6.0-windows\Start3pointsLib.csproj.CopyComplete
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\obj\Debug\net6.0-windows\Start3pointsLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\obj\Debug\net6.0-windows\refint\Start3pointsLib.dll
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\obj\Debug\net6.0-windows\Start3pointsLib.pdb
+F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\Start3pointsLib\obj\Debug\net6.0-windows\ref\Start3pointsLib.dll

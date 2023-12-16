@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {}
+    "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\FillColorLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\FillColorLib\\FillColorLib.csproj",
         "projectName": "FillColorLib",
-        "projectPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\FillColorLib.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Workspace\\Windows-C#\\SuperPaint\\FillColorLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\FillColorLib\\FillColorLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\FillColorLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
