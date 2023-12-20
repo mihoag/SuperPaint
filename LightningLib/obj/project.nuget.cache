@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kC1vVu7E0HDa+l61/htGVp5/MSnlYeCxeY83h3BCMmJevqJwiQ+1KtiYk2c95mwlH7TJ9RtAxpGjaay3aXtEaw==",
+  "dgSpecHash": "QhJiKfBsWqGzGfapGtu2Z17M0qYexj99N/bkxdOYJYrPNwJuGGcKIftkfYg2w1e6NbqInbhde5W7y2IfUEbGoA==",
   "success": true,
-  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\LightningLib\\LightningLib.csproj",
+  "projectFilePath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LightningLib\\LightningLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    "C:\\Users\\AD\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\AD\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\AD\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
   "logs": []
 }

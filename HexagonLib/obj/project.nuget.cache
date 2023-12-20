@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jYczkIq3cx4g2tRX9ZzxTgt843oawMFukd5BiwDEE92Rg6FWm52PxWUP1xhfWjfn7yhoypa46oMHA57vtWqSUQ==",
+  "dgSpecHash": "7sS6w+0oprcYZUZXUQRslU3FlRVXvRBzhy2naJTreIorKSs433vPf1wLxRtTfvoMphOoZssvMfnMsP5UjoPruA==",
   "success": true,
-  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\HexagonLib\\HexagonLib.csproj",
+  "projectFilePath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\HexagonLib\\HexagonLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    "C:\\Users\\AD\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\AD\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\AD\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
   "logs": []
 }

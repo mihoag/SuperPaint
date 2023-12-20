@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rm2S0ZGLbdOyYPiEXmpd7Vc7yeUcog7oAOB9doOWhCl9zK3ZtgcAFfQjSQB+UPozbNA7veFgkbqfXyxgaiyfPw==",
+  "dgSpecHash": "KUtcyD93OOdgwrJED1Xi4jwRokxCoQuiy6792PaJiORqUkCRRpg6zV/VeOLRe6DJkkNYovNoGR5Xim/19Yd7BQ==",
   "success": true,
-  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\CurveLib\\CurveLib.csproj",
+  "projectFilePath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\CurveLib\\CurveLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    "C:\\Users\\AD\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\AD\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\AD\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
   "logs": []
 }

@@ -33,3 +33,14 @@ F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\UltilitiesLib\obj\Debug\n
 F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\UltilitiesLib\obj\Debug\net6.0-windows\refint\UltilitiesLib.dll
 F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\UltilitiesLib\obj\Debug\net6.0-windows\UltilitiesLib.pdb
 F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\UltilitiesLib\obj\Debug\net6.0-windows\ref\UltilitiesLib.dll
+E:\DoAn\Win\Paint\SuperPaint\UltilitiesLib\bin\Debug\net6.0-windows\UltilitiesLib.deps.json
+E:\DoAn\Win\Paint\SuperPaint\UltilitiesLib\bin\Debug\net6.0-windows\UltilitiesLib.dll
+E:\DoAn\Win\Paint\SuperPaint\UltilitiesLib\bin\Debug\net6.0-windows\UltilitiesLib.pdb
+E:\DoAn\Win\Paint\SuperPaint\UltilitiesLib\obj\Debug\net6.0-windows\UltilitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\DoAn\Win\Paint\SuperPaint\UltilitiesLib\obj\Debug\net6.0-windows\UltilitiesLib.AssemblyInfoInputs.cache
+E:\DoAn\Win\Paint\SuperPaint\UltilitiesLib\obj\Debug\net6.0-windows\UltilitiesLib.AssemblyInfo.cs
+E:\DoAn\Win\Paint\SuperPaint\UltilitiesLib\obj\Debug\net6.0-windows\UltilitiesLib.csproj.CoreCompileInputs.cache
+E:\DoAn\Win\Paint\SuperPaint\UltilitiesLib\obj\Debug\net6.0-windows\UltilitiesLib.dll
+E:\DoAn\Win\Paint\SuperPaint\UltilitiesLib\obj\Debug\net6.0-windows\refint\UltilitiesLib.dll
+E:\DoAn\Win\Paint\SuperPaint\UltilitiesLib\obj\Debug\net6.0-windows\UltilitiesLib.pdb
+E:\DoAn\Win\Paint\SuperPaint\UltilitiesLib\obj\Debug\net6.0-windows\ref\UltilitiesLib.dll

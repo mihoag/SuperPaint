@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "74CoCnCS91pYdp3E3U/kLlN4d6M/e8S2DMCyHw5cXGbufr/eeeEbEnreMI0MqUL2rosc14WUeQTHhUvFfURQtA==",
+  "dgSpecHash": "LA5NDw54OL3QzgWXOzXCUgoHQ5bu9jm36UH3md0UGENt3uShImeiKEpMZn8T3A+wpof04nqxz5cSMlkYZQD+zw==",
   "success": true,
-  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\projectPaintV2\\SuperPaint\\DiamonLib\\DiamonLib.csproj",
+  "projectFilePath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\DiamonLib\\DiamonLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    "C:\\Users\\AD\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\AD\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\AD\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
   "logs": []
 }

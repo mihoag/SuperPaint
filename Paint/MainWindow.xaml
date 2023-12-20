@@ -645,7 +645,7 @@
         </Grid>
 
         <ScrollViewer HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible">
-            <zb:ZoomBorder x:Name="paintBorder" MouseWheel="paintBorder_MouseWheel">
+            <zb:ZoomBorder x:Name="paintBorder" MouseWheel="paintBorder_MouseWheel" Background="LightGray">
                 <Grid
                     x:Name="fullCanvas"
                     Width="850"

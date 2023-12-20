@@ -490,9 +490,7 @@ public class CanvasAdorner : Adorner
         cornerThumb.Cursor = customizedCursor;
         cornerThumb.Height = cornerThumb.Width = 6;
         cornerThumb.SnapsToDevicePixels = true;
-        cornerThumb.BorderThickness = new Thickness(1);
-        cornerThumb.BorderBrush = new SolidColorBrush(Colors.White);
-        cornerThumb.Background = new SolidColorBrush(Colors.LightGray);
+        cornerThumb.Background = new SolidColorBrush(Colors.Blue);
 
         visualChildren.Add(cornerThumb);
     }

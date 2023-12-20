@@ -33,3 +33,14 @@ F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\OutlineLib\obj\Debug\net6
 F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\OutlineLib\obj\Debug\net6.0-windows\refint\OutlineLib.dll
 F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\OutlineLib\obj\Debug\net6.0-windows\OutlineLib.pdb
 F:\HK3_Nam1\windowPropraming\projectPaintV2\SuperPaint\OutlineLib\obj\Debug\net6.0-windows\ref\OutlineLib.dll
+E:\DoAn\Win\Paint\SuperPaint\OutlineLib\bin\Debug\net6.0-windows\OutlineLib.deps.json
+E:\DoAn\Win\Paint\SuperPaint\OutlineLib\bin\Debug\net6.0-windows\OutlineLib.dll
+E:\DoAn\Win\Paint\SuperPaint\OutlineLib\bin\Debug\net6.0-windows\OutlineLib.pdb
+E:\DoAn\Win\Paint\SuperPaint\OutlineLib\obj\Debug\net6.0-windows\OutlineLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\DoAn\Win\Paint\SuperPaint\OutlineLib\obj\Debug\net6.0-windows\OutlineLib.AssemblyInfoInputs.cache
+E:\DoAn\Win\Paint\SuperPaint\OutlineLib\obj\Debug\net6.0-windows\OutlineLib.AssemblyInfo.cs
+E:\DoAn\Win\Paint\SuperPaint\OutlineLib\obj\Debug\net6.0-windows\OutlineLib.csproj.CoreCompileInputs.cache
+E:\DoAn\Win\Paint\SuperPaint\OutlineLib\obj\Debug\net6.0-windows\OutlineLib.dll
+E:\DoAn\Win\Paint\SuperPaint\OutlineLib\obj\Debug\net6.0-windows\refint\OutlineLib.dll
+E:\DoAn\Win\Paint\SuperPaint\OutlineLib\obj\Debug\net6.0-windows\OutlineLib.pdb
+E:\DoAn\Win\Paint\SuperPaint\OutlineLib\obj\Debug\net6.0-windows\ref\OutlineLib.dll
