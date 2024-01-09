@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vSPYL/xQ1tUW6tn2iZiQEXE2M8pNpByrWOyF+VYXJODJ3xnlTp9IyShWQ4MiO61W46PKiKukaTiADzIZnmRP7A==",
+  "dgSpecHash": "Ou4aRnzilWseZbz34vIbx6Mgf+gBFTyt2nvFVxc62jOeSyeW1/+AG89C+s6zGaCJdezeiUuXvS8iw7nkp8fAzg==",
   "success": true,
-  "projectFilePath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LineLib\\LineLib.csproj",
+  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LineLib\\LineLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\AD\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
-    "C:\\Users\\AD\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
-    "C:\\Users\\AD\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
   "logs": []
 }

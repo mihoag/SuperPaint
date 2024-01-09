@@ -48,3 +48,15 @@ E:\DoAn\Win\Paint\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\AdornerLib.dll
 E:\DoAn\Win\Paint\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\refint\AdornerLib.dll
 E:\DoAn\Win\Paint\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\AdornerLib.pdb
 E:\DoAn\Win\Paint\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\ref\AdornerLib.dll
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\AdornerLib\bin\Debug\net6.0-windows\AdornerLib.deps.json
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\AdornerLib\bin\Debug\net6.0-windows\AdornerLib.dll
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\AdornerLib\bin\Debug\net6.0-windows\AdornerLib.pdb
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\AdornerLib.csproj.AssemblyReference.cache
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\AdornerLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\AdornerLib.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\AdornerLib.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\AdornerLib.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\AdornerLib.dll
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\refint\AdornerLib.dll
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\AdornerLib.pdb
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\AdornerLib\obj\Debug\net6.0-windows\ref\AdornerLib.dll

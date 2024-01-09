@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {}
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {}
   },
   "projects": {
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\OutlineLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\OutlineLib.csproj",
         "projectName": "OutlineLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\OutlineLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\OutlineLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

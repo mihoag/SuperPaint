@@ -44,3 +44,14 @@ E:\DoAn\Win\Paint\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.
 E:\DoAn\Win\Paint\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\refint\FillColorLib.dll
 E:\DoAn\Win\Paint\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.pdb
 E:\DoAn\Win\Paint\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\ref\FillColorLib.dll
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\FillColorLib\bin\Debug\net6.0-windows\FillColorLib.deps.json
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\FillColorLib\bin\Debug\net6.0-windows\FillColorLib.dll
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\FillColorLib\bin\Debug\net6.0-windows\FillColorLib.pdb
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.dll
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\refint\FillColorLib.dll
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\FillColorLib.pdb
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\FillColorLib\obj\Debug\net6.0-windows\ref\FillColorLib.dll

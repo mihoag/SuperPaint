@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+hWA3kbBbNqFbhB9RtrqiE0lF73k5esNO4Dd5YdIx6ttyUwKwUP0Q2RLNJ7fJjLS0Qw4icSejiOiWcphkeRLjA==",
+  "dgSpecHash": "HMTCKrltdXMvFcZNyVbFZSepOSI/YqxE9RI8zrCVmDp6gQqp7jfGvc3uAoXslLAibph2aPxShTCiD0HUQDCX5g==",
   "success": true,
-  "projectFilePath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\RectangleLib\\RectangleLib.csproj",
+  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\RectangleLib\\RectangleLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\AD\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
-    "C:\\Users\\AD\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
-    "C:\\Users\\AD\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
   "logs": []
 }

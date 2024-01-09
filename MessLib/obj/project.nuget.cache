@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lfB4l8wjb8BxaMRNsyW3+B/tWvC1m0hwrvfyxZ0lVTc7XcP5H9hiMLdl3Fk3cYo2QwtK8PGnsoITEkAJz+nFcg==",
+  "dgSpecHash": "j7QUiv5ctbwSnI8IfzCaIkjFe/suj+dClH0tlF34NILpDKkS/G5EkuUNDc0horv77ISyVkTNXyDipk7ktsQcQw==",
   "success": true,
-  "projectFilePath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\MessLib\\MessLib.csproj",
+  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\MessLib\\MessLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\AD\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
-    "C:\\Users\\AD\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
-    "C:\\Users\\AD\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
   "logs": []
 }

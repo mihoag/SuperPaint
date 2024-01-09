@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Mr3tNB+VPjzwmw5HGdYGwy9+++AYhJZqgvs91NFrXIayzHss5Wqg4Xpn7uGZO48c+hjKcd+Hts8CVXIIFIGceg==",
+  "dgSpecHash": "d8ST5JYtY8sZk82mUQgVY5PidZ6ymo9CJrHa0m/BMe4tZPfQ0ZRMebXVN7q3g/AJO2lcQxjDq0UZ2HcFJ318jQ==",
   "success": true,
-  "projectFilePath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj",
+  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\AD\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
-    "C:\\Users\\AD\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
-    "C:\\Users\\AD\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
   "logs": []
 }

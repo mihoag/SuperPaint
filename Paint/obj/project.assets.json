@@ -1221,23 +1221,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AD\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Paint\\Paint.csproj",
+      "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Paint\\Paint.csproj",
       "projectName": "Paint",
-      "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Paint\\Paint.csproj",
-      "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-      "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Paint\\obj\\",
+      "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Paint\\Paint.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Paint\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1252,95 +1252,95 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowLib\\ArrowLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowLib\\ArrowLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowLib\\ArrowLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowLib\\ArrowLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\CircleLib\\CircleLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\CircleLib\\CircleLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CircleLib\\CircleLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CircleLib\\CircleLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\CurveLib\\CurveLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\CurveLib\\CurveLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CurveLib\\CurveLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CurveLib\\CurveLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\DiamonLib\\DiamonLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\DiamonLib\\DiamonLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\DiamonLib\\DiamonLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\DiamonLib\\DiamonLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\ElipseLib\\ElipseLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ElipseLib\\ElipseLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ElipseLib\\ElipseLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ElipseLib\\ElipseLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\EraserLib\\EraserLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\EraserLib\\EraserLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\EraserLib\\EraserLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\EraserLib\\EraserLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\FillColorLib\\FillColorLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\FillColorLib\\FillColorLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\HeartLib\\HeartLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\HeartLib\\HeartLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HeartLib\\HeartLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HeartLib\\HeartLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\HexagonLib\\HexagonLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\HexagonLib\\HexagonLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HexagonLib\\HexagonLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HexagonLib\\HexagonLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\ImageLib\\ImageLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ImageLib\\ImageLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ImageLib\\ImageLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ImageLib\\ImageLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\LightningLib\\LightningLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LightningLib\\LightningLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LightningLib\\LightningLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LightningLib\\LightningLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\LineLib\\LineLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LineLib\\LineLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LineLib\\LineLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LineLib\\LineLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\MessLib\\MessLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\MessLib\\MessLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\MessLib\\MessLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\MessLib\\MessLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\OutlineLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\OutlineLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\PentagonLib\\PentagonLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\PentagonLib\\PentagonLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PentagonLib\\PentagonLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PentagonLib\\PentagonLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\PlusLib\\PlusLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\PlusLib\\PlusLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PlusLib\\PlusLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PlusLib\\PlusLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\RectangleLib\\RectangleLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\RectangleLib\\RectangleLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\RectangleLib\\RectangleLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\RectangleLib\\RectangleLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\SelectLib\\SelectLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\SelectLib\\SelectLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SelectLib\\SelectLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SelectLib\\SelectLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\SquareLib\\SquareLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\SquareLib\\SquareLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SquareLib\\SquareLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SquareLib\\SquareLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\StarLib\\StarLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\StarLib\\StarLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StarLib\\StarLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StarLib\\StarLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\start4point\\start4pointLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\start4point\\start4pointLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\start4point\\start4pointLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\start4point\\start4pointLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\TopArrow\\TopArrowLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TopArrow\\TopArrowLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TopArrow\\TopArrowLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TopArrow\\TopArrowLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\TriangleLib\\TriangleLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TriangleLib\\TriangleLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TriangleLib\\TriangleLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TriangleLib\\TriangleLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj"
             },
-            "E:\\DoAn\\Win\\Paint\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
-              "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj"
+            "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
+              "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj"
             }
           }
         }
@@ -1399,7 +1399,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

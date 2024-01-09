@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\Paint\\Paint.csproj": {}
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Paint\\Paint.csproj": {}
   },
   "projects": {
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj",
         "projectName": "AdornerLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,24 +68,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj",
         "projectName": "ArrowBotLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowBotLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowBotLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -100,11 +100,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -137,24 +137,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowLib\\ArrowLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowLib\\ArrowLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowLib\\ArrowLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowLib\\ArrowLib.csproj",
         "projectName": "ArrowLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowLib\\ArrowLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowLib\\ArrowLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -169,11 +169,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -206,24 +206,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\CircleLib\\CircleLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CircleLib\\CircleLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\CircleLib\\CircleLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CircleLib\\CircleLib.csproj",
         "projectName": "CircleLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\CircleLib\\CircleLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\CircleLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CircleLib\\CircleLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CircleLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -238,11 +238,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -275,24 +275,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj",
         "projectName": "Contract",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -343,24 +343,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\CurveLib\\CurveLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CurveLib\\CurveLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\CurveLib\\CurveLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CurveLib\\CurveLib.csproj",
         "projectName": "CurveLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\CurveLib\\CurveLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\CurveLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CurveLib\\CurveLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CurveLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -375,8 +375,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -409,24 +409,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\DiamonLib\\DiamonLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\DiamonLib\\DiamonLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\DiamonLib\\DiamonLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\DiamonLib\\DiamonLib.csproj",
         "projectName": "DiamonLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\DiamonLib\\DiamonLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\DiamonLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\DiamonLib\\DiamonLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\DiamonLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -441,11 +441,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -478,24 +478,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\ElipseLib\\ElipseLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ElipseLib\\ElipseLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ElipseLib\\ElipseLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ElipseLib\\ElipseLib.csproj",
         "projectName": "ElipseLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ElipseLib\\ElipseLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ElipseLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ElipseLib\\ElipseLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ElipseLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -510,11 +510,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -547,24 +547,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\EraserLib\\EraserLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\EraserLib\\EraserLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\EraserLib\\EraserLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\EraserLib\\EraserLib.csproj",
         "projectName": "EraserLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\EraserLib\\EraserLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\EraserLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\EraserLib\\EraserLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\EraserLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -579,8 +579,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -613,24 +613,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\FillColorLib\\FillColorLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\FillColorLib\\FillColorLib.csproj",
         "projectName": "FillColorLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\FillColorLib\\FillColorLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\FillColorLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\FillColorLib\\FillColorLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\FillColorLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -675,24 +675,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\HeartLib\\HeartLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HeartLib\\HeartLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\HeartLib\\HeartLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HeartLib\\HeartLib.csproj",
         "projectName": "HeartLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\HeartLib\\HeartLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\HeartLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HeartLib\\HeartLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HeartLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -707,11 +707,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -744,24 +744,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\HexagonLib\\HexagonLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HexagonLib\\HexagonLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\HexagonLib\\HexagonLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HexagonLib\\HexagonLib.csproj",
         "projectName": "HexagonLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\HexagonLib\\HexagonLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\HexagonLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HexagonLib\\HexagonLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HexagonLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -776,11 +776,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -813,24 +813,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\ImageLib\\ImageLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ImageLib\\ImageLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ImageLib\\ImageLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ImageLib\\ImageLib.csproj",
         "projectName": "ImageLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ImageLib\\ImageLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ImageLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ImageLib\\ImageLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ImageLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -845,11 +845,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -882,24 +882,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj",
         "projectName": "LeftArrowLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LeftArrowLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LeftArrowLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -914,11 +914,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -951,24 +951,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\LightningLib\\LightningLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LightningLib\\LightningLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LightningLib\\LightningLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LightningLib\\LightningLib.csproj",
         "projectName": "LightningLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LightningLib\\LightningLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LightningLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LightningLib\\LightningLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LightningLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -983,11 +983,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -1020,24 +1020,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\LineLib\\LineLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LineLib\\LineLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LineLib\\LineLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LineLib\\LineLib.csproj",
         "projectName": "LineLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LineLib\\LineLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LineLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LineLib\\LineLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LineLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1052,11 +1052,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -1089,24 +1089,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\MessLib\\MessLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\MessLib\\MessLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\MessLib\\MessLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\MessLib\\MessLib.csproj",
         "projectName": "MessLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\MessLib\\MessLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\MessLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\MessLib\\MessLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\MessLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1121,11 +1121,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -1158,24 +1158,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\OutlineLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\OutlineLib.csproj",
         "projectName": "OutlineLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\OutlineLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\OutlineLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1220,24 +1220,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\Paint\\Paint.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Paint\\Paint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Paint\\Paint.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Paint\\Paint.csproj",
         "projectName": "Paint",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Paint\\Paint.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Paint\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Paint\\Paint.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Paint\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1252,95 +1252,95 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowBotLib\\ArrowBotLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowLib\\ArrowLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ArrowLib\\ArrowLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowLib\\ArrowLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ArrowLib\\ArrowLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\CircleLib\\CircleLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\CircleLib\\CircleLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CircleLib\\CircleLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CircleLib\\CircleLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\CurveLib\\CurveLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\CurveLib\\CurveLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CurveLib\\CurveLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\CurveLib\\CurveLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\DiamonLib\\DiamonLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\DiamonLib\\DiamonLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\DiamonLib\\DiamonLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\DiamonLib\\DiamonLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\ElipseLib\\ElipseLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ElipseLib\\ElipseLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ElipseLib\\ElipseLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ElipseLib\\ElipseLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\EraserLib\\EraserLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\EraserLib\\EraserLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\EraserLib\\EraserLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\EraserLib\\EraserLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\FillColorLib\\FillColorLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\FillColorLib\\FillColorLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\FillColorLib\\FillColorLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\HeartLib\\HeartLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\HeartLib\\HeartLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HeartLib\\HeartLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HeartLib\\HeartLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\HexagonLib\\HexagonLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\HexagonLib\\HexagonLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HexagonLib\\HexagonLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\HexagonLib\\HexagonLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\ImageLib\\ImageLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\ImageLib\\ImageLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ImageLib\\ImageLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\ImageLib\\ImageLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LeftArrowLib\\LeftArrowLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\LightningLib\\LightningLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LightningLib\\LightningLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LightningLib\\LightningLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LightningLib\\LightningLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\LineLib\\LineLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\LineLib\\LineLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LineLib\\LineLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\LineLib\\LineLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\MessLib\\MessLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\MessLib\\MessLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\MessLib\\MessLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\MessLib\\MessLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\OutlineLib\\OutlineLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\OutlineLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\OutlineLib\\OutlineLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\PentagonLib\\PentagonLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\PentagonLib\\PentagonLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PentagonLib\\PentagonLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PentagonLib\\PentagonLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\PlusLib\\PlusLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\PlusLib\\PlusLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PlusLib\\PlusLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PlusLib\\PlusLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\RectangleLib\\RectangleLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\RectangleLib\\RectangleLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\RectangleLib\\RectangleLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\RectangleLib\\RectangleLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\SelectLib\\SelectLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\SelectLib\\SelectLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SelectLib\\SelectLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SelectLib\\SelectLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\SquareLib\\SquareLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\SquareLib\\SquareLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SquareLib\\SquareLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SquareLib\\SquareLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\StarLib\\StarLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\StarLib\\StarLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StarLib\\StarLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StarLib\\StarLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\start4point\\start4pointLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\start4point\\start4pointLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\start4point\\start4pointLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\start4point\\start4pointLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\TopArrow\\TopArrowLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TopArrow\\TopArrowLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TopArrow\\TopArrowLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TopArrow\\TopArrowLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\TriangleLib\\TriangleLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TriangleLib\\TriangleLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TriangleLib\\TriangleLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TriangleLib\\TriangleLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj"
               }
             }
           }
@@ -1399,24 +1399,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\PentagonLib\\PentagonLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PentagonLib\\PentagonLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\PentagonLib\\PentagonLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PentagonLib\\PentagonLib.csproj",
         "projectName": "PentagonLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\PentagonLib\\PentagonLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\PentagonLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PentagonLib\\PentagonLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PentagonLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1431,11 +1431,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -1468,24 +1468,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\PlusLib\\PlusLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PlusLib\\PlusLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\PlusLib\\PlusLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PlusLib\\PlusLib.csproj",
         "projectName": "PlusLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\PlusLib\\PlusLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\PlusLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PlusLib\\PlusLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\PlusLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1500,11 +1500,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -1537,24 +1537,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\RectangleLib\\RectangleLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\RectangleLib\\RectangleLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\RectangleLib\\RectangleLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\RectangleLib\\RectangleLib.csproj",
         "projectName": "RectangleLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\RectangleLib\\RectangleLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\RectangleLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\RectangleLib\\RectangleLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\RectangleLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1569,11 +1569,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -1606,24 +1606,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\SelectLib\\SelectLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SelectLib\\SelectLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\SelectLib\\SelectLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SelectLib\\SelectLib.csproj",
         "projectName": "SelectLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\SelectLib\\SelectLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\SelectLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SelectLib\\SelectLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SelectLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1638,14 +1638,14 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj"
               }
             }
           }
@@ -1678,24 +1678,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\SquareLib\\SquareLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SquareLib\\SquareLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\SquareLib\\SquareLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SquareLib\\SquareLib.csproj",
         "projectName": "SquareLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\SquareLib\\SquareLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\SquareLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SquareLib\\SquareLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\SquareLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1710,11 +1710,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -1747,24 +1747,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\StarLib\\StarLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StarLib\\StarLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\StarLib\\StarLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StarLib\\StarLib.csproj",
         "projectName": "StarLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\StarLib\\StarLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\StarLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StarLib\\StarLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StarLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1779,11 +1779,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -1816,24 +1816,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj",
         "projectName": "Start3pointsLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Start3pointsLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Start3pointsLib\\Start3pointsLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Start3pointsLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1848,11 +1848,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -1885,24 +1885,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\start4point\\start4pointLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\start4point\\start4pointLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\start4point\\start4pointLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\start4point\\start4pointLib.csproj",
         "projectName": "start4pointLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\start4point\\start4pointLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\start4point\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\start4point\\start4pointLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\start4point\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1917,11 +1917,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -1954,24 +1954,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj",
         "projectName": "StartSixPoint",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\StartSixPoint\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StartSixPoint\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1986,11 +1986,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -2023,24 +2023,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj",
         "projectName": "TextBoxLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TextBoxLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TextBoxLib\\TextBoxLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TextBoxLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2055,11 +2055,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -2092,24 +2092,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\TopArrow\\TopArrowLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TopArrow\\TopArrowLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TopArrow\\TopArrowLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TopArrow\\TopArrowLib.csproj",
         "projectName": "TopArrowLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TopArrow\\TopArrowLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TopArrow\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TopArrow\\TopArrowLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TopArrow\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2124,11 +2124,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -2161,24 +2161,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\TriangleLib\\TriangleLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TriangleLib\\TriangleLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TriangleLib\\TriangleLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TriangleLib\\TriangleLib.csproj",
         "projectName": "TriangleLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TriangleLib\\TriangleLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\TriangleLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TriangleLib\\TriangleLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\TriangleLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2193,11 +2193,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -2230,24 +2230,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj",
         "projectName": "triangleRightLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\triangleRightLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\triangleRightLib\\triangleRightLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\triangleRightLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2262,11 +2262,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\AdornerLib\\AdornerLib.csproj"
               },
-              "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj": {
-                "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\Contract\\Contract.csproj"
+              "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj": {
+                "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\Contract\\Contract.csproj"
               }
             }
           }
@@ -2299,24 +2299,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DoAn\\Win\\Paint\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
+    "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DoAn\\Win\\Paint\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj",
+        "projectUniqueName": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj",
         "projectName": "UltilitiesLib",
-        "projectPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj",
-        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-        "outputPath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\UltilitiesLib\\obj\\",
+        "projectPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\UltilitiesLib\\UltilitiesLib.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\UltilitiesLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2361,7 +2361,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -80,11 +80,11 @@ namespace PentagonLib
         public void HandleStart(double x, double y)
         {
            
-            arrow_point.Add(new Point(6.236, 8.804));
-            arrow_point.Add(new Point(1.764, 7.351));
-            arrow_point.Add(new Point(1.764, 2.649));
-            arrow_point.Add(new Point(6.236, 1.196));
-            arrow_point.Add(new Point(9, 5));
+            arrow_point.Add(new Point(190, 259));
+            arrow_point.Add(new Point(253, 435));
+            arrow_point.Add(new Point(444, 437));
+            arrow_point.Add(new Point(500, 261));
+            arrow_point.Add(new Point(346, 153));
 
             _leftTop = new Point2D() { X = x, Y = y };
         }

@@ -48,3 +48,15 @@ E:\DoAn\Win\Paint\SuperPaint\Contract\obj\Debug\net6.0-windows\Contract.dll
 E:\DoAn\Win\Paint\SuperPaint\Contract\obj\Debug\net6.0-windows\refint\Contract.dll
 E:\DoAn\Win\Paint\SuperPaint\Contract\obj\Debug\net6.0-windows\Contract.pdb
 E:\DoAn\Win\Paint\SuperPaint\Contract\obj\Debug\net6.0-windows\ref\Contract.dll
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\Contract\bin\Debug\net6.0-windows\Contract.deps.json
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\Contract\bin\Debug\net6.0-windows\Contract.dll
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\Contract\bin\Debug\net6.0-windows\Contract.pdb
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\Contract\obj\Debug\net6.0-windows\Contract.csproj.AssemblyReference.cache
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\Contract\obj\Debug\net6.0-windows\Contract.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\Contract\obj\Debug\net6.0-windows\Contract.AssemblyInfoInputs.cache
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\Contract\obj\Debug\net6.0-windows\Contract.AssemblyInfo.cs
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\Contract\obj\Debug\net6.0-windows\Contract.csproj.CoreCompileInputs.cache
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\Contract\obj\Debug\net6.0-windows\Contract.dll
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\Contract\obj\Debug\net6.0-windows\refint\Contract.dll
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\Contract\obj\Debug\net6.0-windows\Contract.pdb
+F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\Contract\obj\Debug\net6.0-windows\ref\Contract.dll

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WSl6lcmFePBFzSvzc0IT0tN3WAfObQ8fXV9/sI2d/uXdwpQraORh3C3xaFqHFLQRvVBIJKRzMFWzJkIFBHSALg==",
+  "dgSpecHash": "cvIXxTwNmd4cTzh0zcgCnlqAh/KbmpKyZuls2ZwLPE84dzJ8fDvDYVk6l0c/0Qw85zI2zqqAApMldkEj3hkRqw==",
   "success": true,
-  "projectFilePath": "E:\\DoAn\\Win\\Paint\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj",
+  "projectFilePath": "F:\\HK3_Nam1\\windowPropraming\\paintV4\\SuperPaint\\StartSixPoint\\StartSixPoint.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\AD\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
-    "C:\\Users\\AD\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
-    "C:\\Users\\AD\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
   "logs": []
 }
