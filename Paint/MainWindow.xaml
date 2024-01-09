@@ -417,10 +417,10 @@
                                     <StackPanel Orientation="Horizontal">
                                         <TextBlock
                                             Width="70"
-                                            Foreground="White"
+                                            Foreground="Black"
                                             Text="{Binding Name}" />
                                         <Line
-                                            Stroke="White"
+                                            Stroke="Black"
                                             StrokeDashArray="{Binding Value}"
                                             StrokeThickness="5"
                                             X1="0"
