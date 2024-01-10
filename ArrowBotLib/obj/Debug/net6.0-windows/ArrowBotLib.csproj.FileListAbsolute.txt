@@ -49,3 +49,10 @@ F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\ArrowBotLib\obj\Debug\net6.0-win
 F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\ArrowBotLib\obj\Debug\net6.0-windows\refint\ArrowBotLib.dll
 F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\ArrowBotLib\obj\Debug\net6.0-windows\ArrowBotLib.pdb
 F:\HK3_Nam1\windowPropraming\paintV4\SuperPaint\ArrowBotLib\obj\Debug\net6.0-windows\ref\ArrowBotLib.dll
+C:\Users\ADMIN\Workspace\Windows-C#\SuperPaint\ArrowBotLib\test\Debug\net6.0-windows\ArrowBotLib.deps.json
+C:\Users\ADMIN\Workspace\Windows-C#\SuperPaint\ArrowBotLib\test\Debug\net6.0-windows\ArrowBotLib.dll
+C:\Users\ADMIN\Workspace\Windows-C#\SuperPaint\ArrowBotLib\test\Debug\net6.0-windows\ArrowBotLib.pdb
+C:\Users\ADMIN\Workspace\Windows-C#\SuperPaint\ArrowBotLib\test\Debug\net6.0-windows\AdornerLib.dll
+C:\Users\ADMIN\Workspace\Windows-C#\SuperPaint\ArrowBotLib\test\Debug\net6.0-windows\Contract.dll
+C:\Users\ADMIN\Workspace\Windows-C#\SuperPaint\ArrowBotLib\test\Debug\net6.0-windows\AdornerLib.pdb
+C:\Users\ADMIN\Workspace\Windows-C#\SuperPaint\ArrowBotLib\test\Debug\net6.0-windows\Contract.pdb

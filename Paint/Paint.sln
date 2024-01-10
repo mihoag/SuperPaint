@@ -49,29 +49,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleLib", "..\TriangleL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FillColorLib", "..\FillColorLib\FillColorLib.csproj", "{13EFD962-1A29-4ECC-81AB-C0C2E7F51A24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleLib", "..\CircleLib\CircleLib.csproj", "{56489C87-8434-4193-9046-AAC93FC0E460}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircleLib", "..\CircleLib\CircleLib.csproj", "{56489C87-8434-4193-9046-AAC93FC0E460}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftArrowLib", "..\LeftArrowLib\LeftArrowLib.csproj", "{8632AACA-9815-42CE-BD88-B91EAB1EB413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeftArrowLib", "..\LeftArrowLib\LeftArrowLib.csproj", "{8632AACA-9815-42CE-BD88-B91EAB1EB413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopArrowLib", "..\TopArrow\TopArrowLib.csproj", "{AC6301DA-7BF9-46FA-BE31-AB822DB7D532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopArrowLib", "..\TopArrow\TopArrowLib.csproj", "{AC6301DA-7BF9-46FA-BE31-AB822DB7D532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrowBotLib", "..\ArrowBotLib\ArrowBotLib.csproj", "{0172C14A-EDA3-4271-842C-07955AFB1524}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrowBotLib", "..\ArrowBotLib\ArrowBotLib.csproj", "{0172C14A-EDA3-4271-842C-07955AFB1524}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PentagonLib", "..\PentagonLib\PentagonLib.csproj", "{29684031-17B1-4F8A-9EA9-5FFBFA958045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PentagonLib", "..\PentagonLib\PentagonLib.csproj", "{29684031-17B1-4F8A-9EA9-5FFBFA958045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusLib", "..\PlusLib\PlusLib.csproj", "{6FC040E8-2CD5-44AB-AF68-6A00A4DDA417}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusLib", "..\PlusLib\PlusLib.csproj", "{6FC040E8-2CD5-44AB-AF68-6A00A4DDA417}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triangleRightLib", "..\triangleRightLib\triangleRightLib.csproj", "{681D862E-990F-41FF-BEB4-A279145F03A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "triangleRightLib", "..\triangleRightLib\triangleRightLib.csproj", "{681D862E-990F-41FF-BEB4-A279145F03A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Start3pointsLib", "..\Start3pointsLib\Start3pointsLib.csproj", "{BE9E9FD5-7CDB-4AC0-A40C-4DDFAD266399}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Start3pointsLib", "..\Start3pointsLib\Start3pointsLib.csproj", "{BE9E9FD5-7CDB-4AC0-A40C-4DDFAD266399}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "start4pointLib", "..\start4point\start4pointLib.csproj", "{E1BE3C74-8E01-439E-8827-24CDE964F394}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "start4pointLib", "..\start4point\start4pointLib.csproj", "{E1BE3C74-8E01-439E-8827-24CDE964F394}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightningLib", "..\LightningLib\LightningLib.csproj", "{7D4CD42C-5392-488A-9C6A-19AD4C331089}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LightningLib", "..\LightningLib\LightningLib.csproj", "{7D4CD42C-5392-488A-9C6A-19AD4C331089}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartSixPoint", "..\StartSixPoint\StartSixPoint.csproj", "{2A4CDBDF-ECD8-4020-9111-F787FAC30933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StartSixPoint", "..\StartSixPoint\StartSixPoint.csproj", "{2A4CDBDF-ECD8-4020-9111-F787FAC30933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessLib", "..\MessLib\MessLib.csproj", "{6B286596-F942-4164-A453-1334E9572B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessLib", "..\MessLib\MessLib.csproj", "{6B286596-F942-4164-A453-1334E9572B59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -216,7 +216,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{702B9200-1896-4C05-BEBF-AC366386D346} = {D408F7AD-8C74-4204-83FC-8D373505DDEF}
 		{018CBD38-5DAB-4AD4-89E0-72897E1D9583} = {D408F7AD-8C74-4204-83FC-8D373505DDEF}
 		{9175F032-A876-467E-A858-2113AD6FCB26} = {D408F7AD-8C74-4204-83FC-8D373505DDEF}
 		{41180A20-64BD-49C2-A3C5-F6ED32100F5C} = {D408F7AD-8C74-4204-83FC-8D373505DDEF}

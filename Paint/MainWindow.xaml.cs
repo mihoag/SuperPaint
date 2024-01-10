@@ -61,9 +61,6 @@ public partial class MainWindow : Fluent.RibbonWindow
     List<IShape> _bufferShapes = new List<IShape>();
     Point _startPoint;
     private double _zoomValue = 1.0;
-    List<string> DefaultLib = new List<string>(new string[] {
-        "Curve", "Eraser", "Image2D", "Select2D", "Textbox" }
-    );
     private void PaintCanvas_Loaded(object sender, RoutedEventArgs e)
     {
         _adnrLayer = AdornerLayer.GetAdornerLayer(paintCanvas);
@@ -74,7 +71,7 @@ public partial class MainWindow : Fluent.RibbonWindow
     private void RibbonWindow_Loaded(object sender, RoutedEventArgs e)
     {
         //Tải tất cả các shape từ file .dll
-        string folder = AppDomain.CurrentDomain.BaseDirectory;
+        string folder = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "dll");
         var fis = new DirectoryInfo(folder).GetFiles("*.dll");
 
         foreach (FileInfo f in fis)
@@ -86,7 +83,7 @@ public partial class MainWindow : Fluent.RibbonWindow
 
             foreach (var type in types)
             {
-                if (type.IsClass && typeof(IShape).IsAssignableFrom(type) && !DefaultLib.Contains(type.Name)) // && typeof(IShape).Namespace != type.Namespace
+                if (type.IsClass && typeof(IShape).IsAssignableFrom(type)) // && typeof(IShape).Namespace != type.Namespace
                 {
                     Debug.WriteLine(type.Name);
                     var shape = Activator.CreateInstance(type) as IShape;
